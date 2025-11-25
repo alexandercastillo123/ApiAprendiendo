@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Los habitos de la gente altamente efectiva",
+      "author": "Stephen R. Covey",
+      "year": 1989
+    },
+    {
+      "id": 2,
+      "name": "Padre rico, padre pobre",
+      "author": "Robert T. Kiyosaki",
+      "year": 1997
+    }
+  ]
+}
