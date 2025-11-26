@@ -10,7 +10,7 @@ Content-Type: application/json
 {
   "title": "Una breve historia del tiempo",
   "author": "Stephen Hawking",
-  "published_year": 1988
+  "year": 1988
 }
 
 ###
@@ -18,7 +18,7 @@ PUT http://localhost:3000/books/3 HTTP/1.1
 Content-Type: application/json
 
 {
-  "published_year": 1989
+  "year": 1987
 }
 
 ###
